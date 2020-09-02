@@ -1,6 +1,5 @@
 ## Hi there 👋, my name is Mariano
-### a passionate backend developer from Argentina
-
+### I'm a passionate backend developer from Argentina
 - 🔭 I’m currently working at **[Blameless](https://www.blameless.com/)**
 - 🌱 I’m currently learning **FastAPI and Golang**
 - 💬 Ask me about **Python and GNU/Linux**
