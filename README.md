@@ -35,9 +35,9 @@
 </p>
 
 ### Profile:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marianogigli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marianogigli/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marianogigli/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianogigli&include_all_commits=true&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianogigli&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianogigli)](https://github.com/marianogigli/github-readme-stats)
 
