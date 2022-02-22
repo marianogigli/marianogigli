@@ -17,8 +17,9 @@
   <!--img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/-->
 </p>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="80" height="40"/>
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/fastapi.svg" alt="fast api" width="40" height="40"/>
 </p>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
