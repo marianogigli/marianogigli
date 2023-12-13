@@ -42,4 +42,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianogigli)](https://github.com/marianogigli/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/marianogigli)
+![](https://komarev.com/ghpvc/?username=marianogigli&color=green)
