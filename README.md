@@ -18,7 +18,7 @@
 </p>
 <p align="left">
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="100" height="40"/>
   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/fastapi.svg" alt="fast api" width="40" height="40"/>
 </p>
 <p align="left">
